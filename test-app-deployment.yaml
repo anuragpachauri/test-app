@@ -23,7 +23,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: test-app
+  name: example-nodejs-service
 spec:
   selector:
     app: test-app
